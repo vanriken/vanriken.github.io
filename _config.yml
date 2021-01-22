@@ -2,9 +2,8 @@ title: Alex Rikos
 author:
   name: Alex Rikos
   email: alexrikos@gmail.com
-description: > # this means to ignore newlines until "show_excerpts:"
-    Personal website and some random blogging
-
+description: Personal website and some random blogging
+markdown: kramdown
 show_excerpts: false # set to true to show excerpts on the homepage
 
 # Minima date format
