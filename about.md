@@ -4,16 +4,16 @@ title: About
 permalink: /about/
 ---
 
-Hi, my name is Alex and welcome to my personal website. The website is still very empty but this will change. And what better time to start a blog than during a global pandemic? 
+Hi, my name is Alex and welcome to my personal website. I started this project to learn more about creating and deploying websites. In the future, I want to write some blog posts about personal projects and other random topics. 
 
-Here are some random facts about me:
+For now, here are some random facts about me:
 * I **really** like languages
-* I used to hate programming, but now it's one of my hobbies
-* I enjoy listening to the podcasts [Hello Internet](http://www.hellointernet.fm/), [No Stupid Questions](https://freakonomics.com/nsq/) and [Easy German](https://www.easygerman.org/podcast)
+* Used to hate programming, but now it's one of my hobbies
+* My favorite podcasts are [Hello Internet](http://www.hellointernet.fm/), [No Stupid Questions](https://freakonomics.com/nsq/) and [Easy German](https://www.easygerman.org/podcast)
 * I can do some pretty cool diabolo tricks
-* I struggle coming up with random facts
+* I struggle to come up with random facts
 
-And here is a quote I like. [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman) once said:
+And here is a quote I like, by [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman):
 > Nobody ever figures out what life is all about, and it doesn't matter. Explore the world. Nearly everything is really interesting if you go into it deeply enough.
 
 <img src="/images/about.jpg" alt="alex" width="200"/>
