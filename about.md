@@ -8,7 +8,7 @@ Hi, my name is Alex and welcome to my personal website. I started this project t
 
 For now, here are some random facts about me:
 * I **really** like languages
-* Used to hate programming, but now it's one of my hobbies
+* I used to dislike programming, but now it's one of my hobbies
 * My favorite podcasts are [Hello Internet](http://www.hellointernet.fm/), [No Stupid Questions](https://freakonomics.com/nsq/) and [Easy German](https://www.easygerman.org/podcast)
 * I can do some pretty cool diabolo tricks
 * I struggle to come up with random facts
