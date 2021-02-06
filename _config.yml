@@ -54,6 +54,9 @@ header_pages:
 # Build settings
 theme: minima
 
+minima:
+  skin: solarized-dark
+
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
