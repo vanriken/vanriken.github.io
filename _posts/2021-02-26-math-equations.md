@@ -9,8 +9,10 @@ categories: misc
 Let's test some inline math $x$, $y$, $x_1$, $y_1$.
 
 
-Now here is an equation in display mode \[\psi = \frac{\omega}{2}\]
+Now here is an equation in display mode: \\[\psi = \frac{\omega}{2}\\]
+Same equation, but now with dollar signs: 
 
+$$\psi = \frac{\omega}{2}$$
 
 And here is a numbered equation:
 \begin{equation}
