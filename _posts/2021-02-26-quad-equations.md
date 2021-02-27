@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "An intuitive method to solve quadratic equations"
+title: "An alternative method to solve quadratic equations"
 author: 'Alexandros'
-categories: misc
+categories: math
 ---
 
 {% include mathjax.html %}
 
-# 1 Introduction 
+# Introduction 
 
 A quadratic equation is a polynomial equation of the form 
 
@@ -22,9 +22,9 @@ where the determinant $\Delta$ is equal to
 $$ \Delta = \beta^2 - 4\alpha\gamma. $$
 
 This approach undoubtetly works but it may be tricky to remember the equations. There is another way to derive the roots, which is more intuitive in my opinion.
-# 2 An alternative method
+# An alternative method
 
-## 2.1 Rewriting the equation 
+## Rewriting the equation 
 We want to find the values of $x$ that satisfy $ \alpha x^2 + \beta x + \gamma = 0 $. 
 
 We can factor out $\alpha$ and rewrite the equation as 
@@ -35,7 +35,7 @@ Since $\alpha\neq0$, we can find the roots $r_{1,2}$ of the original equation by
 
 $$ x^2 + \frac{\beta}{\alpha} x + \frac{\gamma}{\alpha} = 0. $$
 
-## 2.2 Sum and product of the roots 
+## Sum and product of the roots 
 
 Since $r_1$ and $r_2$ are the roots of the equation we can write 
 
@@ -45,7 +45,7 @@ By matching the terms of the left and right side, we get the following:
 
 $$ r_1 + r_2 = - \frac{\beta}{\alpha} \quad \text{ and } \quad  r_1  \cdot r_2 = \frac{\gamma}{\alpha}  $$
 
-## 2.3 Expressing the roots differently
+## Introducing new variables to simplify the problem
 
 We let $m$ be the center of the two roots $r_1$ and $r_2$, and we name their distance $2d$. Now we can express the roots by using the variables $m$ and $d$:
 
@@ -62,9 +62,9 @@ $$ m = -\frac{\beta}{2\alpha} \quad \text{and} \quad d^2 = m^2 - \frac{\gamma}{\
 
 We can now use these equations to easily calculate the values of $m$ and $d$ and then use these to calculate the roots of the quadratic equation. This approach works even when the roots are imaginary.
 
-## 2.4 Example 
+## Example 
 
-Assume we need to find the roots of the quadratic polynomial $x^2 - 7x + 12$ ( $\alpha=1$, $\beta=-7$ and $\gamma = 12$ ). The roots are given by $r_{1,2} = m \pm d$. 
+Let's end this blog post with an example. Assume we need to find the roots of the quadratic polynomial $x^2 - 7x + 12$ ( $\alpha=1$, $\beta=-7$ and $\gamma = 12$ ). The roots are given by $r_{1,2} = m \pm d$. 
 
 First we calculate the value of $m$:
 
