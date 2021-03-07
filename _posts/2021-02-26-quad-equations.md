@@ -7,14 +7,14 @@ categories: math
 
 {% include mathjax.html %}
 
-# Introduction 
-In this blog post I want to show simpler way to solve quadratic equations. I learned this method from this YouTube video of [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) and thought it would be nice to write a short blog post about it.
+
+In this blog post I want to show simpler way to solve quadratic equations. I learned this method from [this](https://www.youtube.com/watch?v=MHXO86wKeDY) YouTube video of 3Blue1Brown and thought it would be nice to write a short blog post about it.
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=MHXO86wKeDY
 " target="_blank"><img src="http://img.youtube.com/vi/MHXO86wKeDY/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+alt="Link to video" width="240" height="180" border="10" /></a>
 
-
+# Getting started 
 
 A quadratic equation is a polynomial equation of the form 
 
@@ -29,7 +29,8 @@ where the determinant $\Delta$ is equal to
 $$ \Delta = \beta^2 - 4\alpha\gamma. $$
 
 This approach undoubtetly works but it may be tricky to remember the equations. There is another way to derive the roots, which is more intuitive in my opinion.
-# A simpler method
+
+# A simpler approach
 
 ## Rewriting the equation 
 We want to find the values of $x$ that satisfy $ \alpha x^2 + \beta x + \gamma = 0 $. 
@@ -86,4 +87,4 @@ The roots of the polynomial are therefore
 
 $$ r_1 = m - d = 3 \quad {and} \quad r_2 = m + d = 4 $$.
 
- <img src="https://cdn.pixabay.com/photo/2016/07/06/15/29/math-1500720_1280.jpg" alt="alt" width="500"> 
+ <img src="https://cdn.pixabay.com/photo/2016/07/06/15/29/math-1500720_1280.jpg" alt="blackboard" width="600"> 
