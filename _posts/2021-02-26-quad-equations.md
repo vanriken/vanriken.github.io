@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "An alternative method to solve quadratic equations"
+title: "Solving quadratic equations"
 author: 'Alexandros'
 categories: math
 ---
