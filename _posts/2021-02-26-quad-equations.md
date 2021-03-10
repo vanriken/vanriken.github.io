@@ -86,5 +86,3 @@ $$ d^2 = m^2 - \frac{\gamma}{\alpha} = 3.5^2 - 12 = 0.25 \Rightarrow d = \sqrt{0
 The roots of the polynomial are therefore
 
 $$ r_1 = m - d = 3 \quad {and} \quad r_2 = m + d = 4 $$.
-
- <img src="https://cdn.pixabay.com/photo/2016/07/06/15/29/math-1500720_1280.jpg" alt="blackboard" width="600"> 
