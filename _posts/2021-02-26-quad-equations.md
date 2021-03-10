@@ -47,7 +47,7 @@ $$ x^2 + \frac{\beta}{\alpha} x + \frac{\gamma}{\alpha} = 0. $$
 
 Since $r_1$ and $r_2$ are the roots of the equation we can write 
 
-$$ x^2 + \frac{\beta}{\alpha} x + \frac{\gamma}{\alpha} = 0 = (x-r_1)(x-r_2) = x^2 - (r_1 + r_2) \cdot x + r_1 \cdot r_2 $$
+$$ \begin{align*} x^2 + \frac{\beta}{\alpha} x + \frac{\gamma}{\alpha} = 0 &= (x-r_1)(x-r_2) \\ &= x^2 - (r_1 + r_2) \cdot x + r_1 \cdot r_2 \end{align*} $$
 
 By matching the terms of the left and right side, we get the following:
 
