@@ -59,7 +59,7 @@ We let $m$ be the center of the two roots $r_1$ and $r_2$, and we name their dis
 
 $$ r_1 = m - d\;, \quad r_2 = m + d $$ 
 
-Instead of solving for $r_{1,2}$ it is easier to solve for the values $m$ and $d$. Using the equations for the sum and the product of the roots from 2.2 we have that 
+Instead of solving for $r_{1,2}$ it is easier to solve for the values $m$ and $d$. Using the equations for the sum and the product of the roots we have that 
 
 $$ \begin{align*} r_1 + r_2 &= m - d + m + d = 2m = -\frac{\beta}{\alpha} \quad \text{and} \\ 
 r_1 \cdot r_2 &= (m-d)(m+d) = m^2 - d^2 = \frac{\gamma}{\alpha} \end{align*} $$
